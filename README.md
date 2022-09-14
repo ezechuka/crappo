@@ -19,7 +19,7 @@ This is a solution to the [CODING CHALLENGE FOR SEPTEMBER](https://twitter.com/c
 
 ### Screenshot
 
-![](https://github.com/ezechuka/shortly/blob/main/assets/desktop-1.png)
+![](https://github.com/ezechuka/crappo/blob/main/public/desktop.png)
 
 ### Links
 
@@ -32,6 +32,9 @@ This is a solution to the [CODING CHALLENGE FOR SEPTEMBER](https://twitter.com/c
 - [ChakraUI](https://chakra-ui.com/) - For styles
 
 ## Installation
+  - `git clone` to your local machine
+  - `npm install` to install deps
+  - `npm run dev` to run local server
 
 ## Author
 
